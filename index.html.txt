@@ -1,6 +1,6 @@
 <doctype! html>
 <html>
-<title></title>
+<title>no title</title>
 <body>
 Hello world!
 </body>
