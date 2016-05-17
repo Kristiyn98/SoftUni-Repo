@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Rosen 1
 Vlado 2
 Alex 1
 Kris X
 Kris XXXX
+=======
+Rosen 1
+Vlado 2
+Alex 1
+Kris X
+Martin 1
+>>>>>>> 4850a2e18ef03ef9808e1c476aa504a6ca7f9a2f
