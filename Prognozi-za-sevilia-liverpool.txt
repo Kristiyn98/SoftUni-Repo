@@ -2,7 +2,4 @@ Rosen 1
 Vlado 2
 Alex 1
 Kris X
-
-Kris X
-
-xxxx
+Martin 1
