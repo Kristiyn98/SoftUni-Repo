@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Rosen 1
 Vlado 2
 Alex 1
@@ -11,3 +12,11 @@ Kris X
 >>>>>>> origin/master
 Martin 1
 Martin 1
+=======
+Rosen 1
+Vlado 2
+Alex 1
+Kris X
+Martin 1
+Ivo 2
+>>>>>>> origin/master
