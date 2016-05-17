@@ -1,2 +1,5 @@
 Rosen 1
-Vlado  smqna na X
+Vlado 2
+Alex 1
+Kris X
+Martin 1
